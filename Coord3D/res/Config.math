@@ -1,0 +1,13 @@
++;2;plus
+-;2;minus
+*;2;times
+/;2;divides
+=;1;equals
+<;1;less
+>;1;greater
+<=;1;lessEquals
+>=;1;greaterEquals
+(;3;bracketOpen
+);3;bracketClose
+x;4;inputVariable
+y;4;outputVariable
